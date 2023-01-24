@@ -1,11 +1,13 @@
 # Desafio-Css-DIO
-Tecnologias
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
+- HTML
+- CSS
+- Git
+- Github
 
-Projeto
+### Projeto
 Desenvolvi uma pagina de site de curso com os conteudo fonercido pela propria DIO.
 
 Acesse o projeto aqui, online!
